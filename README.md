@@ -77,16 +77,13 @@ class Janiele:
 | Projeto                                                             | Descrição                                                                                                               | Tecnologias                                                                                                                                                                                               |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [POO2 — Python + PySide6](https://github.com/Janiele-B)             | Atividades e exercícios da disciplina de Programação Orientada a Objetos 2, com desenvolvimento de interfaces gráficas. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square\&logo=qt\&logoColor=white) |
-| [SIGMON — Gerenciamento de Monitoria](https://github.com/Janiele-B) | Sistema desenvolvido para gerenciamento de monitorias, utilizando aplicação web e banco de dados distribuído.           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)  |
-| Outros projetos                                                     | Projetos e atividades desenvolvidos utilizando Python.                                                                  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)                                                                                                     |
-
----
+| [SIGMON — Gerenciamento de Monitoria](https://github.com/AllanaMrtins/Trabalho-SO-Python-mongodb) | Sistema desenvolvido para gerenciamento de monitorias, utilizando aplicação web e banco de dados distribuído.           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)  |
 
 ## 🌐 Web & Sistemas Distribuídos
 
 | Projeto                                                             | Descrição                                                                                                                                               | Tecnologias                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [SIGMON — Gerenciamento de Monitoria](https://github.com/Janiele-B) | Aplicação web para gerenciamento de monitorias, com cadastro de alunos, monitores e atendimentos, utilizando banco de dados distribuído em Replica Set. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white) |
+| [SIGMON — Gerenciamento de Monitoria](https://github.com/AllanaMrtins/Trabalho-SO-Python-mongodb) | Aplicação web para gerenciamento de monitorias, com cadastro de alunos, monitores e atendimentos, utilizando banco de dados distribuído em Replica Set. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white) |
 
 ---
 
@@ -102,7 +99,7 @@ class Janiele:
 ## 🎨 Design & Interface
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css" />
+  <img src="https://skillicons.dev/icons?i=figma,css" />
 </p>
 
 Tenho interesse em **UX/UI Design**, prototipação e desenvolvimento de interfaces com foco na experiência do usuário.
