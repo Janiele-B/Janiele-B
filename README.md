@@ -50,9 +50,7 @@ class Janiele:
         "Java",
         "C",
         "SQL",
-        "React",
         "Flask",
-        "FastAPI",
         "PostgreSQL",
         "MongoDB",
         "Docker"
