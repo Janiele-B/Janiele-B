@@ -1,4 +1,3 @@
-<img width="1774" height="887" alt="Banner do perfil" src="https://github.com/user-attachments/assets/1064ef16-8972-4c60-804e-9d83996e35a6" />
 
 <h1 align="center">Olá! Eu sou Janiele Barbosa 👋</h1>
 
@@ -68,7 +67,7 @@ class Janiele:
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,react,flask,fastapi,postgres,mongodb,docker,git,github,vscode,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,css,flask,postgres,mongodb,docker,git,github,vscode,figma&perline=8" />
 </p>
 
 ---
@@ -95,8 +94,7 @@ class Janiele:
 
 | Tecnologia | Utilização                                                     |
 | ---------- | -------------------------------------------------------------- |
-| PostgreSQL | Desenvolvimento e gerenciamento de bancos de dados relacionais |
-| SQLite     | Persistência de dados em aplicações                            |
+| PostgreSQL | Desenvolvimento e gerenciamento de bancos de dados relacionais | 
 | MongoDB    | Banco de dados NoSQL e sistemas distribuídos                   |
 
 ---
