@@ -75,6 +75,7 @@ class Janiele:
 | Projeto                                                             | Descrição                                                                                                               | Tecnologias                                                                                                                                                                                               |
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [SIGMON — Gerenciamento de Monitoria](https://github.com/AllanaMrtins/Trabalho-SO-Python-mongodb) | Sistema desenvolvido para gerenciamento de monitorias, utilizando aplicação web e banco de dados distribuído.           | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)  |
+| [Sistema Escolar Simples](https://github.com/Janiele-B/Sistema_Escolar_POO1) | Sistema simples desenvolvido para gerenciamento escolar.   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)  |
 
 ## 🌐 Web & Sistemas Distribuídos
 
@@ -111,15 +112,6 @@ Tenho interesse em **UX/UI Design**, prototipação e desenvolvimento de interfa
 * 🗄️ Banco de Dados
 * 🐳 Docker e Sistemas Distribuídos
 * 🎨 UX/UI Design
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janiele-B&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janiele-B&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
 
 ---
 
