@@ -65,7 +65,7 @@ class Janiele:
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,css,flask,postgres,mongodb,docker,git,github,vscode,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,css,flask,postgres,mongodb,docker,vscode,figma&perline=8" />
 </p>
 
 ---
