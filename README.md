@@ -1,11 +1,6 @@
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=Olá%2C+eu+sou+Janiele+Barbosa" alt="Olá, eu sou Janiele Barbosa" />
-</h1>
+<img width="1694" height="928" alt="image" src="https://github.com/user-attachments/assets/ec42fab1-49f1-4302-a892-4a6b5f2f37f1" />
 
-<p align="center">
-  🎓 Estudante de Sistemas de Informação | 💻 Desenvolvedora | 🎨 UX/UI
-</p>
 
 <p align="center">
   <a href="mailto:bjaniely598@gmail.com">
