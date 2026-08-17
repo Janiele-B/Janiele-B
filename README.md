@@ -1,6 +1,5 @@
 
-<img width="1694" height="928" alt="image" src="https://github.com/user-attachments/assets/ec42fab1-49f1-4302-a892-4a6b5f2f37f1" />
-
+<img width="1694" height="692" alt="janiele_barbosa_cortado" src="https://github.com/user-attachments/assets/a070de85-654a-452a-b268-4c8a09452b87" />
 
 <p align="center">
   <a href="mailto:bjaniely598@gmail.com">
