@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+Janiele+Barbosa+👋" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=Olá%2C+eu+sou+Janiele+Barbosa" alt="Olá, eu sou Janiele Barbosa" />
 </h1>
 
 <p align="center">
